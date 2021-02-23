@@ -1,3 +1,4 @@
+import styles from '../styles/components/ExperienceBar.module.css';
 export default function ExperienceBar(){
   return(
     <header className="experience-bar">
