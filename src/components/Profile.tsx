@@ -6,7 +6,7 @@ export function Profile(){
       <div>
         <strong>Alessandro Lima</strong>
         <p>
-          <img src="icons/leve.svg"  alt="Level"/>
+          <img src="icons/level.svg"  alt="Level"/>
           
           Level 1
         </p>
